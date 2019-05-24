@@ -1,9 +1,10 @@
 package main
 
 import (
+    "os"
     "flag"
 
-    "github.com/sug0/ips"
+    "github.com/sug0/go-ips"
 )
 
 func main() {
